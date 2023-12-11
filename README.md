@@ -10,7 +10,13 @@ npm install
 npm run serve
 ```
 ### 如果有问题看这里：
-
+```
+npm install normalize.css –save
+```
+### 如果还不行
+```
+npm install normalize.css -force
+```
 ### Compiles and minifies for production
 ```
 npm run build
