@@ -29,8 +29,8 @@
 </template>
 
 <style lang="scss">
-@import './style/viriables.scss';
-@import './style/mixins.scss';
+@import '@/style/viriables.scss';
+@import '@/style/mixins.scss';
 .wrapper {
   position: absolute;
   left: 0;
