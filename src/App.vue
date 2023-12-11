@@ -191,7 +191,7 @@
       <div class="docker__item">
         <div class="iconfont">&#xe7e5;</div>
         <div class="docker__title">购物车</div>
-      </div>
+        </div>
       <div class="docker__item">
         <div class="iconfont">&#xe61e;</div>
         <div class="docker__title">订单</div>
@@ -205,8 +205,8 @@
 </template>
 
 <style lang="scss">
-@import '@/style/viriables.scss';
-@import '@/style/mixins.scss';
+@import './style/viriables.scss';
+@import './style/mixins.scss';
 .wrapper {
   overflow-y: auto;
   position: absolute;
