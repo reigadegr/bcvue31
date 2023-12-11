@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
+### 如果有问题看这里：
 
 ### Compiles and minifies for production
 ```
